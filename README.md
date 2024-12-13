@@ -23,7 +23,7 @@ Place your input mnemonic file in the root of the project directory and name it 
 #### Running the Script:
 	1.	Make sure mnemonic.txt contains your mnemonic phrases that need cleaning.
 	2.	Run the script using the following command:
-	•	Windows: python main.py
+	•	Windows: python3 main.py
 	•	MacOS / Linux: python3 main.py
 
 The cleaned phrases will be saved in the result.txt file, maintaining the original line structure.
